@@ -18,11 +18,11 @@ This is a Langchain project that enables you to interact with any PDFs via the G
 5. Perform a semantic search over texts to find relevant sources of data
 6. Send data to LLM (ChatGPT) and receive answers on the chatbot
 
-# Code walkthrough guide
-
-https://www.analyticsvidhya.com/blog/2023/05/build-a-chatgpt-for-pdfs-with-langchain/
 
 # How does the end product look like :
+With Chat history :
+<img width="1325" alt="Screenshot 2024-02-14 at 5 41 04 PM" src="https://github.com/akshara2403/GPTwithPDFs/assets/73586732/ac95e367-7f45-4407-b0b1-bafdf184b8a0">
+
 <img width="1387" alt="Screenshot 2024-02-13 at 11 28 19 AM" src="https://github.com/akshara2403/GPTwithPDFs/assets/73586732/487ad6fd-182f-4fff-a809-43ac6fcd8c66">
 
 
