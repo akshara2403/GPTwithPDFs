@@ -1,4 +1,4 @@
-# Pdf-GPT
+# GPTwithPDFs
 
 This is a Langchain project that enables you to interact with any PDFs via the Gradio chat interface. It not only fetches relevant answers but also renders relevant pages of the PDFs.
 
