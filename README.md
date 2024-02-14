@@ -22,14 +22,8 @@ This is a Langchain project that enables you to interact with any PDFs via the G
 
 https://www.analyticsvidhya.com/blog/2023/05/build-a-chatgpt-for-pdfs-with-langchain/
 
+# How does the end product look like :
+<img width="1387" alt="Screenshot 2024-02-13 at 11 28 19 AM" src="https://github.com/akshara2403/GPTwithPDFs/assets/73586732/487ad6fd-182f-4fff-a809-43ac6fcd8c66">
 
-# How does the end product look like
-
-![alt text](https://github.com/sunilkumardash9/Pdf-GPT/blob/main/Resources/Screenshot%20from%202023-05-10%2022-07-20.png?raw=true)
-
-# Demo Video
-
-
-https://github.com/sunilkumardash9/Pdf-GPT/assets/47926185/5d5f9f43-fff9-4a3c-a5af-5f0b9c7904fd
 
 
